@@ -61,9 +61,10 @@ var myObject = {
   anime = "Hunter x Hunter";
 }
 
-function addKeys(object)
-var firstName = "Marlo"
-var lastName = "Gallow"
+function addKeys = {
+firstName = "Marlo",
+lastName = "Gallow",
+}
 addKeys("firstName + lastName")
 
 
